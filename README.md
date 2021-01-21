@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-git clone https://github.com/TetonSKR/core-control
+git clone https://github.com/TetonEXP/core-control
 cd core-control
 ./ccontrol.sh arg1 [arg2]
 ```
