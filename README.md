@@ -1,4 +1,4 @@
-# Core v2 Management Tool - TetonSKR
+# Core v2 Management Tool - TetonEXP
 
 ## Installation
 
